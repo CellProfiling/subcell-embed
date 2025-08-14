@@ -30,7 +30,7 @@ jobs:
     - name: Run Python script to generate summary
       run: python3 github_stats.py
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GHRS_GITHUB_API_TOKEN }}
         GITHUB_REPOSITORY: ${{ github.repository }}
 
     - name: Commit and push changes
