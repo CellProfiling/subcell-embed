@@ -28,9 +28,8 @@ jobs:
     - name: Run Python script to generate summary
       run: python3 github_stats.py
       env:
-        TRAFFIC_ACTION_TOKEN: ${{ secrets.GHRS_GITHUB_API_TOKEN }}
-        TRAFFIC_ACTION_OWNER: ${{ secrets.TRAFFIC_ACTION_OWNER }}
-        TRAFFIC_ACTION_REPO: ${{ secrets.TRAFFIC_ACTION_REPO }}
+        GITHUB_TOKEN: ${{secrets.GHRS_GITHUB_API_TOKEN }}
+        GITHUB_REPOSITORY: ${{ github.repository }}
 
     - name: view summary file
       run: cat traffic/summary.csv
