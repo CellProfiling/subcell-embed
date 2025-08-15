@@ -1,0 +1,62 @@
+[
+    {
+        "path": "/CellProfiling/subcell-embed",
+        "title": "GitHub - CellProfiling/subcell-embed: Codebase for training the SubCell models",
+        "count": 22,
+        "uniques": 9
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/graphs/traffic",
+        "title": "Traffic \u00b7 CellProfiling/subcell-embed",
+        "count": 12,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/actions/new",
+        "title": "Workflow templates \u00b7 CellProfiling/subcell-embed",
+        "count": 12,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/actions",
+        "title": "Workflow runs \u00b7 CellProfiling/subcell-embed",
+        "count": 10,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/.github/workflows/main.yml",
+        "title": "subcell-embed/.github/workflows/main.yml at main \u00b7 CellProfiling/subcell-embed",
+        "count": 7,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/actions/workflows/main.yml",
+        "title": ".github/workflows/main.yml \u00b7 Workflow runs \u00b7 CellProfiling/subcell-embed",
+        "count": 7,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/pulse",
+        "title": "Pulse \u00b7 CellProfiling/subcell-embed",
+        "count": 5,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/.github/workflows",
+        "title": "subcell-embed/.github/workflows at main \u00b7 CellProfiling/subcell-embed",
+        "count": 5,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/actions/metrics/usage",
+        "title": "Actions Usage Metrics",
+        "count": 5,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/new/main",
+        "title": "New File at / \u00b7 CellProfiling/subcell-embed",
+        "count": 4,
+        "uniques": 1
+    }
+]
