@@ -1,0 +1,32 @@
+[
+    {
+        "path": "/CellProfiling/subcell-embed",
+        "title": "CellProfiling/subcell-embed: Codebase for training the SubCell models",
+        "count": 4,
+        "uniques": 3
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/main_lightning.py",
+        "title": "subcell-embed/main_lightning.py at main \u00b7 CellProfiling/subcell-embed",
+        "count": 1,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/graphs/commit-activity",
+        "title": "Commits \u00b7 CellProfiling/subcell-embed",
+        "count": 1,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/graphs/traffic",
+        "title": "Traffic \u00b7 CellProfiling/subcell-embed",
+        "count": 1,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/pulse",
+        "title": "Pulse \u00b7 CellProfiling/subcell-embed",
+        "count": 1,
+        "uniques": 1
+    }
+]
