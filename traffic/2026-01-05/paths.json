@@ -1,0 +1,62 @@
+[
+    {
+        "path": "/CellProfiling/subcell-embed",
+        "title": "GitHub - CellProfiling/subcell-embed: Codebase for training the SubCell models",
+        "count": 23,
+        "uniques": 10
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/models",
+        "title": "subcell-embed/models at main \u00b7 CellProfiling/subcell-embed \u00b7 GitHub",
+        "count": 4,
+        "uniques": 4
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/data",
+        "title": "subcell-embed/data at main \u00b7 CellProfiling/subcell-embed \u00b7 GitHub",
+        "count": 3,
+        "uniques": 3
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/resources/arch.png",
+        "title": "subcell-embed/resources/arch.png at main \u00b7 CellProfiling/subcell-embed \u00b7 GitHub",
+        "count": 3,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/configs",
+        "title": "subcell-embed/configs at main \u00b7 CellProfiling/subcell-embed",
+        "count": 2,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/resources",
+        "title": "subcell-embed/resources at main \u00b7 CellProfiling/subcell-embed \u00b7 GitHub",
+        "count": 2,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/models/lightning/base_ssl.py",
+        "title": "subcell-embed/models/lightning/base_ssl.py at main \u00b7 CellProfiling/subcell-em...",
+        "count": 2,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/traffic/summary.csv",
+        "title": "subcell-embed/traffic/summary.csv at main \u00b7 CellProfiling/subcell-embed",
+        "count": 2,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/traffic",
+        "title": "subcell-embed/traffic at main \u00b7 CellProfiling/subcell-embed",
+        "count": 2,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/configs/MAE-cellS-protS-contrast.yaml",
+        "title": "subcell-embed/configs/MAE-cellS-protS-contrast.yaml at main \u00b7 CellProfiling/s...",
+        "count": 1,
+        "uniques": 1
+    }
+]
