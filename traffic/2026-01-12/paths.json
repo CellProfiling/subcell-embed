@@ -1,0 +1,62 @@
+[
+    {
+        "path": "/CellProfiling/subcell-embed",
+        "title": "GitHub - CellProfiling/subcell-embed: Codebase for training the SubCell models",
+        "count": 27,
+        "uniques": 14
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/models",
+        "title": "subcell-embed/models at main \u00b7 CellProfiling/subcell-embed \u00b7 GitHub",
+        "count": 4,
+        "uniques": 3
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/traffic",
+        "title": "subcell-embed/traffic at main \u00b7 CellProfiling/subcell-embed \u00b7 GitHub",
+        "count": 3,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/traffic/summary.csv",
+        "title": "subcell-embed/traffic/summary.csv at main \u00b7 CellProfiling/subcell-embed",
+        "count": 2,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/commits/main",
+        "title": "Commits \u00b7 CellProfiling/subcell-embed",
+        "count": 2,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/forks",
+        "title": "Forks \u00b7 CellProfiling/subcell-embed",
+        "count": 2,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/stargazers",
+        "title": "Stargazers \u00b7 CellProfiling/subcell-embed",
+        "count": 2,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main",
+        "title": "GitHub - CellProfiling/subcell-embed: Codebase for training the SubCell models",
+        "count": 2,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/LICENSE",
+        "title": "subcell-embed/LICENSE at main \u00b7 CellProfiling/subcell-embed \u00b7 GitHub",
+        "count": 1,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/models/attention_pooling.py",
+        "title": "subcell-embed/models at main \u00b7 CellProfiling/subcell-embed",
+        "count": 1,
+        "uniques": 1
+    }
+]
