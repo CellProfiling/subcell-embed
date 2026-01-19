@@ -1,0 +1,27 @@
+[
+    {
+        "referrer": "biorxiv.org",
+        "count": 9,
+        "uniques": 1
+    },
+    {
+        "referrer": "Google",
+        "count": 6,
+        "uniques": 2
+    },
+    {
+        "referrer": "qiita.com",
+        "count": 2,
+        "uniques": 1
+    },
+    {
+        "referrer": "DuckDuckGo",
+        "count": 1,
+        "uniques": 1
+    },
+    {
+        "referrer": "lundberglab.stanford.edu",
+        "count": 1,
+        "uniques": 1
+    }
+]

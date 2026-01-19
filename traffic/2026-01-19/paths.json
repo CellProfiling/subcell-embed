@@ -1,0 +1,62 @@
+[
+    {
+        "path": "/CellProfiling/subcell-embed",
+        "title": "GitHub - CellProfiling/subcell-embed: Codebase for training the SubCell models",
+        "count": 31,
+        "uniques": 18
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/models",
+        "title": "subcell-embed/models/object_aware_mae.py at main \u00b7 CellProfiling/subcell-embe...",
+        "count": 7,
+        "uniques": 4
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/models/object_aware_mae.py",
+        "title": "subcell-embed/resources at main \u00b7 CellProfiling/subcell-embed",
+        "count": 5,
+        "uniques": 3
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main",
+        "title": "GitHub - CellProfiling/subcell-embed: Codebase for training the SubCell models",
+        "count": 5,
+        "uniques": 3
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/models/get_models.py",
+        "title": "subcell-embed/models/object_aware_mae.py at main \u00b7 CellProfiling/subcell-embed",
+        "count": 5,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/models/attention_pooling.py",
+        "title": "subcell-embed/models/vit.py at main \u00b7 CellProfiling/subcell-embed",
+        "count": 3,
+        "uniques": 3
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/LICENSE",
+        "title": "subcell-embed/LICENSE at main \u00b7 CellProfiling/subcell-embed \u00b7 GitHub",
+        "count": 2,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/configs",
+        "title": "subcell-embed/configs at main \u00b7 CellProfiling/subcell-embed \u00b7 GitHub",
+        "count": 2,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/resources",
+        "title": "subcell-embed/resources at main \u00b7 CellProfiling/subcell-embed \u00b7 GitHub",
+        "count": 2,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/traffic",
+        "title": "subcell-embed/traffic at main \u00b7 CellProfiling/subcell-embed \u00b7 GitHub",
+        "count": 2,
+        "uniques": 2
+    }
+]
