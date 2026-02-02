@@ -1,0 +1,62 @@
+[
+    {
+        "path": "/CellProfiling/subcell-embed",
+        "title": "CellProfiling/subcell-embed: Codebase for training the SubCell models",
+        "count": 24,
+        "uniques": 17
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/models",
+        "title": "subcell-embed/models at main \u00b7 CellProfiling/subcell-embed",
+        "count": 7,
+        "uniques": 4
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/data",
+        "title": "subcell-embed/data at main \u00b7 CellProfiling/subcell-embed",
+        "count": 6,
+        "uniques": 4
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main",
+        "title": "CellProfiling/subcell-embed: Codebase for training the SubCell models",
+        "count": 5,
+        "uniques": 4
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/models/lightning",
+        "title": "subcell-embed/models at main \u00b7 CellProfiling/subcell-embed",
+        "count": 5,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/main_lightning.py",
+        "title": "subcell-embed/main_lightning.py at main \u00b7 CellProfiling/subcell-embed",
+        "count": 5,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/configs",
+        "title": "subcell-embed/configs at main \u00b7 CellProfiling/subcell-embed",
+        "count": 4,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/configs/MAE-cellS-protS-byol.yaml",
+        "title": "CellProfiling/subcell-embed: Codebase for training the SubCell models",
+        "count": 3,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/data/dataset.py",
+        "title": "subcell-embed/data at main \u00b7 CellProfiling/subcell-embed \u00b7 GitHub",
+        "count": 3,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/traffic",
+        "title": "subcell-embed/traffic at main \u00b7 CellProfiling/subcell-embed",
+        "count": 3,
+        "uniques": 2
+    }
+]
