@@ -1,0 +1,62 @@
+[
+    {
+        "path": "/CellProfiling/subcell-embed",
+        "title": "CellProfiling/subcell-embed: Codebase for training the SubCell models",
+        "count": 21,
+        "uniques": 15
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/configs",
+        "title": "subcell-embed/configs at main \u00b7 CellProfiling/subcell-embed",
+        "count": 6,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/configs/cellS-protS.yaml",
+        "title": "subcell-embed/configs/MAE-cellS-protS-contrast.yaml at main \u00b7 CellProfiling/s...",
+        "count": 5,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/README.md",
+        "title": "subcell-embed/configs/MAE-cellS-protS-byol.yaml at main \u00b7 CellProfiling/subce...",
+        "count": 4,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/main_lightning.py",
+        "title": "subcell-embed/README.md at main \u00b7 CellProfiling/subcell-embed",
+        "count": 3,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main",
+        "title": "subcell-embed/README.md at main \u00b7 CellProfiling/subcell-embed",
+        "count": 3,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/traffic",
+        "title": "subcell-embed/traffic at main \u00b7 CellProfiling/subcell-embed",
+        "count": 3,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/configs/MAE-cellS-protS-contrast.yaml",
+        "title": "subcell-embed/configs at main \u00b7 CellProfiling/subcell-embed",
+        "count": 3,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/models",
+        "title": "subcell-embed/models at main \u00b7 CellProfiling/subcell-embed",
+        "count": 2,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/configs/MAE-cellS-protS-byol.yaml",
+        "title": "subcell-embed/configs/cellS.yaml at main \u00b7 CellProfiling/subcell-embed",
+        "count": 2,
+        "uniques": 1
+    }
+]
