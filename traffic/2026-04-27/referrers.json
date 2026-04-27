@@ -1,0 +1,27 @@
+[
+    {
+        "referrer": "github.com",
+        "count": 20,
+        "uniques": 2
+    },
+    {
+        "referrer": "Google",
+        "count": 8,
+        "uniques": 3
+    },
+    {
+        "referrer": "biorxiv.org",
+        "count": 8,
+        "uniques": 3
+    },
+    {
+        "referrer": "Bing",
+        "count": 4,
+        "uniques": 2
+    },
+    {
+        "referrer": "gsk-onyx.atlassian.net",
+        "count": 1,
+        "uniques": 1
+    }
+]
