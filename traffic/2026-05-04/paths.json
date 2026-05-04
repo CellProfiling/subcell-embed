@@ -1,0 +1,62 @@
+[
+    {
+        "path": "/CellProfiling/subcell-embed",
+        "title": "Overview",
+        "count": 41,
+        "uniques": 24
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main",
+        "title": "/tree/main",
+        "count": 14,
+        "uniques": 4
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/models",
+        "title": "/tree/main/models",
+        "count": 10,
+        "uniques": 4
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/data",
+        "title": "/tree/main/data",
+        "count": 9,
+        "uniques": 5
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/configs",
+        "title": "/tree/main/configs",
+        "count": 6,
+        "uniques": 4
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/README.md",
+        "title": "/blob/main/README.md",
+        "count": 5,
+        "uniques": 3
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/data/dataset.py",
+        "title": "/blob/main/data/dataset.py",
+        "count": 5,
+        "uniques": 3
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/annotations",
+        "title": "/tree/main/annotations",
+        "count": 5,
+        "uniques": 3
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/utils",
+        "title": "/tree/main/utils",
+        "count": 5,
+        "uniques": 3
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/main_lightning.py",
+        "title": "/blob/main/main_lightning.py",
+        "count": 5,
+        "uniques": 2
+    }
+]
