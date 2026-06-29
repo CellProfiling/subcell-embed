@@ -1,0 +1,62 @@
+[
+    {
+        "path": "/CellProfiling/subcell-embed",
+        "title": "Overview",
+        "count": 16,
+        "uniques": 10
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/commits",
+        "title": "/commits",
+        "count": 3,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/commit/0acf986be8c12849a1fd12a58b52d71f338f88ce",
+        "title": "/commit/0acf986be8c12849a1fd12a58b52d71f338f88ce",
+        "count": 2,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/LICENSE",
+        "title": "/blob/main/LICENSE",
+        "count": 2,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/actions",
+        "title": "/actions",
+        "count": 1,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/activity",
+        "title": "/activity",
+        "count": 1,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/.gitignore",
+        "title": "/blob/main/.gitignore",
+        "count": 1,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/Dockerfile",
+        "title": "/blob/main/Dockerfile",
+        "count": 1,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/annotations/splits/train_antibodies.txt",
+        "title": "/blob/main/annotations/splits/train_antibodies.txt",
+        "count": 1,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/github_stats.py",
+        "title": "/blob/main/github_stats.py",
+        "count": 1,
+        "uniques": 1
+    }
+]
