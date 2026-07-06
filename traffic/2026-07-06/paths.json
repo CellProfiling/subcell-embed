@@ -1,0 +1,62 @@
+[
+    {
+        "path": "/CellProfiling/subcell-embed",
+        "title": "Overview",
+        "count": 27,
+        "uniques": 17
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/commits",
+        "title": "/commits",
+        "count": 2,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/annotations",
+        "title": "/tree/main/annotations",
+        "count": 2,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/actions",
+        "title": "/actions",
+        "count": 1,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/actions/runs/16961188457",
+        "title": "/actions/runs/16961188457",
+        "count": 1,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/activity",
+        "title": "/activity",
+        "count": 1,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/.gitignore",
+        "title": "/blob/main/.gitignore",
+        "count": 1,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/Dockerfile",
+        "title": "/blob/main/Dockerfile",
+        "count": 1,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/LICENSE",
+        "title": "/blob/main/LICENSE",
+        "count": 1,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/annotations/splits/train_antibodies.txt",
+        "title": "/blob/main/annotations/splits/train_antibodies.txt",
+        "count": 1,
+        "uniques": 1
+    }
+]
