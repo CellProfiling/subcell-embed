@@ -1,0 +1,44 @@
+[
+    {
+        "path": "/CellProfiling/subcell-embed",
+        "title": "Overview",
+        "count": 13,
+        "uniques": 9
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/forks",
+        "title": "/forks",
+        "count": 3,
+        "uniques": 3
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/resources",
+        "title": "/tree/main/resources",
+        "count": 2,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/LICENSE",
+        "title": "/blob/main/LICENSE",
+        "count": 1,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/annotations",
+        "title": "/tree/main/annotations",
+        "count": 1,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/annotations/splits",
+        "title": "/tree/main/annotations/splits",
+        "count": 1,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/data",
+        "title": "/tree/main/data",
+        "count": 1,
+        "uniques": 1
+    }
+]
