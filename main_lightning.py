@@ -100,6 +100,7 @@ def app(config):
 
     # # Fingers crossed PTL has a guard around init_process_group...
     if not dist.is_initialized():
+        torch.cuda.set_device(int(os.environ.get("LOCAL_RANK", 0)))
         dist.init_process_group(backend="nccl")
 
     if "16" in config["trainer"]["precision"]:

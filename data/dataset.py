@@ -4,7 +4,7 @@ import random
 import numpy as np
 import pandas as pd
 import torch
-from scipy.ndimage.morphology import grey_dilation
+from scipy.ndimage import grey_dilation
 from streaming import StreamingDataset
 from torch import nn
 
@@ -168,6 +168,8 @@ class HPASubCellDatasetStream(StreamingDataset):
             )
         else:
             mask_tensor = None
+
+        return x_i, x_j, antibody_id_tensor, targets, mask_tensor
 
 
 class HPASubCellDataset(StreamingDataset):

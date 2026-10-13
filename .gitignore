@@ -162,3 +162,10 @@ cython_debug/
 .DS_Store
 
 .vscode/
+
+# SubCell demo and training outputs
+demo_data/
+demo_output/
+.local/
+lightning_logs/
+wandb/

@@ -1,0 +1,104 @@
+# Small configuration for the demo in README.md. Uses the synthetic dataset
+# written by scripts/make_demo_data.py and a reduced ViT so it runs in minutes
+# on a single GPU. Same objective as MAE-cellS-protS-contrast.yaml.
+exp_folder: "demo_output"
+exp_name: "demo"
+exp_mode: "rybg_448_nc4_contrast_mae_vit_tiny"
+log_wandb: false
+num_workers: 4
+pin_memory: false
+data:
+  dataset: "HPASubCellDataset"
+  image_size: 448
+  train_remote_path: "demo_data/hpa_mds/train"
+  val_remote_path: "demo_data/hpa_mds/valid"
+  test_remote_path:
+  args:
+    ssl_transform: true
+    protein_path: null
+    n_cells: 4
+    mask_prob: 0.5
+    color_channels:
+      - "red"
+      - "yellow"
+      - "blue"
+      - "green"
+    normalize: "min_max"
+    return_cell_mask: True
+model:
+  mae_model:
+    name: "ViTMAEForPreTraining"
+    args:
+      hidden_size: 192
+      num_hidden_layers: 4
+      num_attention_heads: 3
+      intermediate_size: 768
+      hidden_act: "gelu"
+      hidden_dropout_prob: 0.0
+      attention_probs_dropout_prob: 0.0
+      initializer_range: 0.02
+      layer_norm_eps: 1.e-12
+      image_size: 448
+      patch_size: 16
+      num_channels: 4
+      qkv_bias: True
+      decoder_num_attention_heads: 4
+      decoder_hidden_size: 128
+      decoder_num_hidden_layers: 2
+      decoder_intermediate_size: 512
+      mask_ratio: 0.25
+      norm_pix_loss: True
+      object_mask_ratio: 0.0
+  ssl_model:
+    name: ContrastiveLoss
+    args:
+      projector:
+        name: "ProjectionHead"
+        args:
+          in_channels: 384
+          mlp_layers:
+            - 512
+            - 128
+      temperature: 0.1
+  supcon_model:
+    name: ContrastiveLoss
+    args:
+      projector:
+        name: "ProjectionHead"
+        args:
+          in_channels: 384
+          mlp_layers:
+            - 512
+            - 128
+      temperature: 0.1
+  pool_model:
+    name: "GatedAttentionPooler"
+    args:
+      dim: 192
+      int_dim: 128
+      num_heads: 2
+      dropout: 0.2
+  pl_args:
+    weight_recon: 1.0
+    weight_ssl: 1.0
+    weight_supcon: 0.1
+    mask_ratio2: 0.0
+    max_epochs: 10
+    init_lr: 1.e-4
+    weight_decay: 0.05
+    betas:
+      - 0.9
+      - 0.95
+    warmup_epochs: 1
+train:
+  pl_module: "ContrastMAE"
+  train_batch_size: 4
+  test_batch_size: 4
+  ckpt_path: "last.ckpt"
+trainer:
+  gc_interval: 0
+  valid_every: 1
+  strategy: "ddp"
+  logging_interval: 10
+  checkpoint_interval: 10
+  precision: "32-true"

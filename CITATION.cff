@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the article below."
+title: "SubCell: training code for proteome-aware vision foundation models"
+type: software
+license: MIT
+repository-code: "https://github.com/CellProfiling/subcell-embed"
+authors:
+  - family-names: Gupta
+    given-names: Ankit
+preferred-citation:
+  type: article
+  title: "SubCell: Proteome-aware vision foundation models for microscopy capture single-cell biology"
+  journal: "bioRxiv"
+  year: 2025
+  doi: "10.1101/2024.12.06.627299"
+  url: "https://www.biorxiv.org/content/10.1101/2024.12.06.627299"
+  authors:
+    - family-names: Gupta
+      given-names: Ankit
+    - family-names: Wefers
+      given-names: Zoe
+    - family-names: Kahnert
+      given-names: Konstantin
+    - family-names: Hansen
+      given-names: Jan N.
+    - family-names: Misra
+      given-names: Mohini K.
+    - family-names: Leineweber
+      given-names: Will
+    - family-names: Cesnik
+      given-names: Anthony
+    - family-names: Lu
+      given-names: Dan
+    - family-names: Axelsson
+      given-names: Ulrika
+    - family-names: Ballllosera
+      given-names: Frederic
+    - family-names: Altman
+      given-names: Russ B.
+    - family-names: Karaletsos
+      given-names: Theofanis
+    - family-names: Lundberg
+      given-names: Emma
