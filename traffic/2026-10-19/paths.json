@@ -1,0 +1,62 @@
+[
+    {
+        "path": "/CellProfiling/subcell-embed",
+        "title": "Overview",
+        "count": 12,
+        "uniques": 5
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/requirements.txt",
+        "title": "/blob/main/requirements.txt",
+        "count": 2,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/actions/runs/38186717511",
+        "title": "/actions/runs/38186717511",
+        "count": 2,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/traffic/summary.csv",
+        "title": "/blob/main/traffic/summary.csv",
+        "count": 2,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/traffic",
+        "title": "/tree/main/traffic",
+        "count": 2,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/actions",
+        "title": "/actions",
+        "count": 1,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/actions/runs/38186717511/job/114610503616",
+        "title": "/actions/runs/38186717511/job/114610503616",
+        "count": 1,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/actions/runs/38238607488",
+        "title": "/actions/runs/38238607488",
+        "count": 1,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/actions/runs/38238607488/job/114775345544",
+        "title": "/actions/runs/38238607488/job/114775345544",
+        "count": 1,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/LICENSE",
+        "title": "/blob/main/LICENSE",
+        "count": 1,
+        "uniques": 1
+    }
+]
