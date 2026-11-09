@@ -1,0 +1,20 @@
+[
+    {
+        "path": "/CellProfiling/subcell-embed",
+        "title": "Overview",
+        "count": 17,
+        "uniques": 11
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/requirements.txt",
+        "title": "/blob/main/requirements.txt",
+        "count": 3,
+        "uniques": 3
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/README.md",
+        "title": "/blob/main/README.md",
+        "count": 1,
+        "uniques": 1
+    }
+]
